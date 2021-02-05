@@ -444,6 +444,9 @@ body {
   .footer-white-info {
     text-align: left;
   }
+  .footer-phone {
+    font-size: 14px;
+  }
   .footer-white-info {
     text-align: left;
     margin-top: 10px;
