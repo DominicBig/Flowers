@@ -439,7 +439,13 @@ body {
 @media (max-width: 576px) {
   .footer-info,
   .offer-title,
-  .offer {
+  .offer,
+  .footer-white-container,
+  .footer-white-info {
     text-align: left;
+  }
+  .footer-white-info {
+    text-align: left;
+    margin-top: 10px;
   }
 }
