@@ -51,7 +51,7 @@ const reviewsSlider = new Swiper('.reviews-slider', {
 
 });
 
-$("#review-1").on('click', function() {
+$("#review-1, #review-2 ").on('click', function() {
 
   $.fancybox.open([
     {
