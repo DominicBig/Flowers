@@ -1,7 +1,7 @@
 # Flowers Study project
 
 ### Adaptive interactive site, flower shop
-### Tools used:
+### Languages used:
 - HTML 5
 - CSS3
 - JavaScript
